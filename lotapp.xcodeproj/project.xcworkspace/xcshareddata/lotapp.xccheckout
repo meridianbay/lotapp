@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3B1693E9-50EA-478D-9F17-4D37A04BDE79</string>
+	<key>IDESourceControlProjectName</key>
+	<string>lotapp</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5FE8B36C4C552CFAB565DF8EFABFCBAD2BD85E99</key>
+		<string>https://github.com/meridianbay/lotapp.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>lotapp/lotapp.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5FE8B36C4C552CFAB565DF8EFABFCBAD2BD85E99</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/meridianbay/lotapp.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5FE8B36C4C552CFAB565DF8EFABFCBAD2BD85E99</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5FE8B36C4C552CFAB565DF8EFABFCBAD2BD85E99</string>
+			<key>IDESourceControlWCCName</key>
+			<string>lotapp</string>
+		</dict>
+	</array>
+</dict>
+</plist>
